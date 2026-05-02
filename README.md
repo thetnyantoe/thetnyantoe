@@ -65,7 +65,7 @@ I focus on modern web technologies, smooth UI/UX, and practical backend solution
 
 ## 🤝 Let’s Connect
 📫 **Email:** yaircube1@gmail.com  
-💬 Open to collaborations, ideas, and interesting projects.
+💬 Open to collaborations, ideas, and interesting projects
 
 ---
 
