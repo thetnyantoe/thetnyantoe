@@ -6,11 +6,11 @@ I focus on modern web technologies, smooth UI/UX, and practical backend solution
 ---
 
 ## 🧠 About Me
-- 👀 Interested in **coding** (ofc, why not 😌)
+- 👀 Interested in **coding** (ofcc)
 - 🌱 Currently learning **Laravel** & improving full-stack architecture
 - 💞️ Open to collaborating on **websites & web apps**
 - 😄 Pronouns: **he / him**
-- ⚡ Fun fact: Looks serious, but low-key enjoys debugging 😤➡️😌
+- ⚡ Fun fact: Looks serious, but low-key enjoys debugging 
 
 ---
 
